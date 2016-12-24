@@ -22,5 +22,5 @@ paginate:         1
 # Custom vars
 version:          1.0
 
-github:          hola
+github:          
   repo:          https://github.com/acenturion/
