@@ -3,6 +3,23 @@ layout: page
 title: Contacto
 ---
 
+Curriculum Vitae
+Contacto
+11 6449 - 6812
+alejandrocenturion@outlook.com
+linkedin.com/in/alejandro-centurion
+Nacionalidad
+Argentina
+Fecha de nacimiento
+09/01/1993
+23 Años
+Domicilio
+Av.Marquez 2500
+Pablo Podesta
+Tres de febrero
+Buenos aires
+
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
