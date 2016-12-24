@@ -5,10 +5,10 @@ title: Curriculum Vitae
 
 ### Formación Académica
 
-+ Universidad Nacional de San Martín • 2014 - Actualidad  
++ __Universidad Nacional de San Martín__ • 2014 - Actualidad  
    _Tecnicatura, Programación Informática._
  
-+ Escuela de Educación Media n.° 2 «Bernardino Rivadavia» • 2009 - 2012  
++ __Escuela de Educación Media n.° 2 «Bernardino Rivadavia»__ • 2009 - 2012  
    _Bachillerato, Economía y Gestión de las Organizaciones._
 
 
