@@ -29,7 +29,7 @@ _Diseño, desarrollo en HTML y CSS. y administración del sitio web, manejo de m
 plataforma CMS Joomla. Operador IT, asistencia de equipos, conexión de equipos, proyección de
 imágenes._
 
-#### Open Terrazas • nov 2012 - sep 2013
+#### Open Terrazas • noviembre 2012 - septiembre 2013
 __Atención al público / Ventas__  
 _Ventas y atención al público en kiosco. Manejo de caja. Recepción de Proveedores. Cobertura de
 francos._
