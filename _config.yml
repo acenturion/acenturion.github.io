@@ -10,7 +10,7 @@ github:             "acenturion"
 linkedin:           "alejandro-centurion"
 
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "acenturion"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
@@ -23,10 +23,10 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
+  - name:           "Acerca de mi"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Contacto"
+    href:           "/contact"
 
 sass:
   style:            :compressed
