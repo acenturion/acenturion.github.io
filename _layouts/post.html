@@ -2,24 +2,15 @@
 layout: default
 ---
 
-<div class="post">
+{% include header.html %}
+
+<div class="content post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <!--span class="post-date">{{ page.date | date_to_string }}</span -->
+  <div class="post-date">
+    <time>{{ page.date | date_to_string }}</time>
+  </div>
   {{ content }}
 </div>
-
-<div class="related">
- <a href="{{ post.url }}"> <h4>Subir</h4> </a>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+{% if site.disqus_shortname %}
+  {% include disqus_comments.html %}
+{% endif %}

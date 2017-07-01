@@ -1,26 +1,51 @@
-# Dependencies
-#markdown:         redcarpet
-rouge:      pygments
+name:               "Ink"
+description:        "A minimalistic jekyll theme for humans"
 
-# Permalinks
-permalink:        pretty
-#relative_permalinks: true
+url:                ""
+author:             "thinker3197"
+email:              "jhondoe@abc.com"
+gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+twitter:            "jhondoe"
+email:              "jhondoe@abc.com"
+github:             "jhondoe"
+pinterest:          "jhondoe"
+linkedin:           "jhondoe"
+facebook:           "jhondoe"
 
-# Setup
-title:            Alejandro Centurion
-tagline:          'Pagina personal'
-description:      'Desarrollador JAVA, Estudiante de Programacion en la UNSAM'
-url:              https://acenturion.github.io/
-baseurl:          https://acenturion.github.io/
+disqus_shortname:   "thinker3197"
 
-author:
-  name:           'Alejandro Centurion'
-  url:            https://www.linkedin.com/in/alejandro-centurion
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-paginate:         5
+paginate:           5
+paginate_path:      "/page:num/"
 
-# Custom vars
-version:          1.0
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
 
-github:          
-  repo:          https://github.com/acenturion/
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "/about"
+  - name:           "Download"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate
