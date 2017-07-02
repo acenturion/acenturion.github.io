@@ -17,7 +17,7 @@ background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x22
 paginate:           2
 paginate_path:      "/page:num/"
 
-baseurl:            "http://acenturion.github.io/about/"
+baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
