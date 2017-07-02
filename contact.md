@@ -9,5 +9,3 @@ permalink: /contact/
  + Correo: alejandrocenturion@outlook.com
  + [Linkedin](linkedin.com/in/alejandro-centurion)
  + [GitHub](acenturion.github.io)
-
-### [Volver](http://acenturion.github.io/)

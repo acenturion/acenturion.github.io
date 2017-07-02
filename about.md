@@ -40,5 +40,3 @@ _Bachillerato, Economía y Gestión de las Organizaciones._
 * __2014__ Introducción al Testing de Software -  Universidad Nacional de San Martín (ECyT)
 * __2012__ Reparación de Pc - Centro de Formación Profesional n.°401  
 * __2012__ Administración de redes - Centro de Formación Profesional n.°401  
-
-### [Volver](http://acenturion.github.io/)  
