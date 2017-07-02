@@ -21,12 +21,13 @@ __Open Terrazas y Open Boulevard__ • _nov 2012 -  sep 2013_
 **_Atención al público / Ventas_**  
 Ventas y atención al público en kiosco. Manejo de caja. Recepción de Proveedores. Cobertura de francos.  
 
-Formación Académica
+## Formación Académica  
+
 __Universidad Nacional de San Martín__ • _2014 - Actualidad_   
-_Tecnicatura, Programación Informática._  
+_Tecnicatura, Programación Informática._ 
  
-__Escuela de Educación Media n.° 2 «Bernardino Rivadavia»__  • _2009 - 2012_  
-_Bachillerato, Economía y Gestión de las Organizaciones._  
+__Escuela de Educación Media n.° 2 «Bernardino Rivadavia»__ • _2009 - 2012_  
+_Bachillerato, Economía y Gestión de las Organizaciones._ 
 
 ## Cursos  
 
