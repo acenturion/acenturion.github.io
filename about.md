@@ -54,5 +54,4 @@ __2011__
 
   - Administración de redes - Centro de Formación Profesional n.°401  
 
-
-### [Volver](https://acenturion.github.io/)
+### [Volver](https://acenturion.github.io/)  
