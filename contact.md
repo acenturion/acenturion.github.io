@@ -10,4 +10,4 @@ permalink: /contact/
  + [Linkedin](linkedin.com/in/alejandro-centurion)
  + [GitHub](acenturion.github.io)
 
-### [Volver](https://acenturion.github.io/)
+### [Volver](http://acenturion.github.io/)

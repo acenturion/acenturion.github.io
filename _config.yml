@@ -4,7 +4,7 @@ description:        "Desarrollador Java"
 url:                ""
 author:             "acenturion"
 email:              "alejandrocenturion@outlook.com"
-gravatar_hash:      "5142c65b9d24f653948f67453ef45f93"
+gravatar_hash:      "http://scontent.xx.fbcdn.net/v/t1.0-9/17155311_10154881173995923_6091964786503779442_n.jpg?oh=5142c65b9d24f653948f67453ef45f93&oe=59D0FFF1"
 email:              "alejandrocenturion@outlook.com"
 github:             "acenturion"
 linkedin:           "alejandro-centurion"
@@ -17,7 +17,7 @@ background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x22
 paginate:           2
 paginate_path:      "/page:num/"
 
-baseurl:            ""
+baseurl:            "http://acenturion.github.io/about/"
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
