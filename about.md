@@ -1,8 +1,48 @@
 ---
-title: About
+title: Acerca de mi
 permalink: /about/
 ---
 
-<p class="heavy-title"><a href="http://github.com/thinker3197/Ink">Ink</a> is a simple & minimalistic theme for <a href="http://jekyllrb.com">Jekyll</a>, a static site generator.</p>
+## Experiencia Laboral
+	
+__Thalamus S.A__ • _Enero 2017 - actualidad_   
+**_Ejecutivo de  cuentas_**  
+Soporte y orientación a clientes, desarrollo de consultas en MySQL, Administración de Bases,Diseño de comunicaciones en HTML  
+ 
+__Covedisa__ • _Enero 2016 - Junio 2016_  
+**_Vendedor telefónico._**  
+Ventas de equipos celulares, planes telefónicos, garantías. Asistencia al cliente por medio telefónico, Manejo de sistemas como Avaya, SAP y Remedy.  
+ 
+__Tecnico Vot.ar__ • _Julio 2015_  
+**_Técnico en elecciones generales y ballotage_**    
+Asistencia y reparación de los equipos utilizados con el sistema de boleta única electrónica (BUE).  
+ 
+__Open Terrazas y Open Boulevard__ • _nov 2012 -  sep 2013_  
+**_Atención al público / Ventas_**  
+Ventas y atención al público en kiosco. Manejo de caja. Recepción de Proveedores. Cobertura de francos.  
 
->Designed and developed by [@thinker3197](https://github.com/thinker3197).
+## Formación Académica
+__Universidad Nacional de San Martín__ • _2014 - Actualidad_   
+**_Tecnicatura, Programación Informática._**  
+ 
+__Escuela de Educación Media n.° 2 «Bernardino Rivadavia»__  • _2009 - 2012_  
+**_Bachillerato, Economía y Gestión de las Organizaciones._**  
+
+## Cursos
+* 2017 
+ * Programación Orientada a Objetos en Java (150 horas) - Centro N°8 SMATA
+* 2016
+ * Técnicas de programación en java (120 horas) - Centro N°8 SMATA
+ *Administración básica y avanzada de Linux (80 horas) - CESSI
+ * Introducción a Bases de Datos y SQL - educacionIT
+ * Introducción al Paradigma de Objetos - educacionIT
+ * Introducción a Java -  educacionIT
+* 2014 
+ * Introducción al Testing de Software -  Universidad Nacional de San Martín (ECyT)
+* 2012
+ * Reparación de Pc - Centro de Formación Profesional n.°401
+* 2011 
+ * Administración de redes - Centro de Formación Profesional n.°401  
+
+
+### [Volver](https://acenturion.github.io/)
