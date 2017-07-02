@@ -30,28 +30,14 @@ _Bachillerato, Economía y Gestión de las Organizaciones._
 
 ## Cursos  
 
-__2017__
-
-* Programación Orientada a Objetos en Java (150 horas) - Centro N°8 SMATA  
-
-__2016__  
-
-* Técnicas de programación en java (120 horas) - Centro N°8 SMATA
-* Administración básica y avanzada de Linux (80 horas) - CESSI
-* Introducción a Bases de Datos y SQL - educacionIT
-* Introducción al Paradigma de Objetos - educacionIT
-* Introducción a Java -  educacionIT  
-
-__2014__  
- 
-* Introducción al Testing de Software -  Universidad Nacional de San Martín (ECyT)  
-
-__2012__  
-
-* Reparación de Pc - Centro de Formación Profesional n.°401  
-
-__2011__
-
-  - Administración de redes - Centro de Formación Profesional n.°401  
+* __2017__ Programación Orientada a Objetos en Java (150 horas) - Centro N°8 SMATA
+* __2016__ Técnicas de programación en java (120 horas) - Centro N°8 SMATA
+* __2016__ Administración básica y avanzada de Linux (80 horas) - CESSI
+* __2016__ Introducción a Bases de Datos y SQL - educacionIT
+* __2016__ Introducción al Paradigma de Objetos - educacionIT
+* __2016__ Introducción a Java -  educacionIT  
+* __2014__ Introducción al Testing de Software -  Universidad Nacional de San Martín (ECyT)
+* __2012__ Reparación de Pc - Centro de Formación Profesional n.°401  
+* __2012__ Administración de redes - Centro de Formación Profesional n.°401  
 
 ### [Volver](https://acenturion.github.io/)  
