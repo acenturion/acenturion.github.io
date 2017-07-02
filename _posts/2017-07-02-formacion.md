@@ -8,5 +8,4 @@ _Tecnicatura, Programación Informática._
  
 __Escuela de Educación Media n.° 2 «Bernardino Rivadavia»__ • _2009 - 2012_  
 _Bachillerato, Economía y Gestión de las Organizaciones._  
-
-### [Volver](http://acenturion.github.io/)  
+  

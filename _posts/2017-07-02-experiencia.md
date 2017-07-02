@@ -18,5 +18,4 @@ Asistencia y reparación de los equipos utilizados con el sistema de boleta úni
 __Open Terrazas y Open Boulevard__ • _nov 2012 -  sep 2013_  
 **_Atención al público / Ventas_**  
 Ventas y atención al público en kiosco. Manejo de caja. Recepción de Proveedores. Cobertura de francos.  
-
-### [Volver](http://acenturion.github.io/)  
+  

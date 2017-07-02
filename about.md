@@ -29,7 +29,7 @@ _Tecnicatura, Programación Informática._
 __Escuela de Educación Media n.° 2 «Bernardino Rivadavia»__ • _2009 - 2012_  
 _Bachillerato, Economía y Gestión de las Organizaciones._ 
 
-## Cursos  
+## Cursos
 
 * __2017__ Programación Orientada a Objetos en Java (150 horas) - Centro N°8 SMATA
 * __2016__ Técnicas de programación en java (120 horas) - Centro N°8 SMATA
