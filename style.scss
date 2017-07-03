@@ -324,12 +324,13 @@ tbody tr:nth-child(odd) th {
         width: 50%;
         float: right;
         color: #FFF;
+        text-shadow: 0px 0px 1px black;
     }
     p {
         height: auto;
         width: 100%;
         text-align: center;
-        color: #BDBDBD;
+        color: black;
     }
     .social {
         margin-left: 25vw;
