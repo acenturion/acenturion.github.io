@@ -7,5 +7,5 @@ permalink: /contact/
 
  + Celular: (011) 11-2255-9039
  + Correo: alejandrocenturion@outlook.com
- + [Linkedin](linkedin.com/in/alejandro-centurion)
- + [GitHub](acenturion.github.io)
+ + [Linkedin](http://www.linkedin.com/in/alejandro-centurion)
+ + [GitHub](http://github.com/acenturion)
