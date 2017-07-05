@@ -3,7 +3,7 @@ title: Experiencia Laboral
 permalink: /experiencia/
 ---
 
-__Thalamus S.A__ • _Enero 2017 - actualidad_ 
+__Thalamus S.A__ • _Enero 2017 - actualidad_  
 **_Ejecutivo de  cuentas_**  
 Soporte y orientación a clientes, desarrollo de consultas en MySQL, Administración de Bases,Diseño de comunicaciones en HTML  
  
