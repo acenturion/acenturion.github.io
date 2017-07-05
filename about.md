@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Experiencia Laboral
 	
-__Thalamus S.A__ • _Enero 2017 - actualidad_ 
+__Thalamus S.A__ • _Enero 2017 - actualidad_  
 **_Ejecutivo de  cuentas_**  
 Soporte y orientación a clientes, desarrollo de consultas en MySQL, Administración de Bases,Diseño de comunicaciones en HTML  
  
@@ -29,14 +29,14 @@ _Tecnicatura, Programación Informática._
 __Escuela de Educación Media n.° 2 «Bernardino Rivadavia»__ • _2009 - 2012_  
 _Bachillerato, Economía y Gestión de las Organizaciones._ 
 
-## Cursos
+## Cursos  
 
-* __2017__ Programación Orientada a Objetos en Java (150 horas) - Centro N°8 SMATA
-* __2016__ Técnicas de programación en java (120 horas) - Centro N°8 SMATA
-* __2016__ Administración básica y avanzada de Linux (80 horas) - CESSI
-* __2016__ Introducción a Bases de Datos y SQL - educacionIT
-* __2016__ Introducción al Paradigma de Objetos - educacionIT
-* __2016__ Introducción a Java -  educacionIT  
-* __2014__ Introducción al Testing de Software -  Universidad Nacional de San Martín (ECyT)
-* __2012__ Reparación de Pc - Centro de Formación Profesional n.°401  
-* __2012__ Administración de redes - Centro de Formación Profesional n.°401  
+__2017__ Programación Orientada a Objetos en Java (150 horas) - Centro N°8 SMATA  
+__2016__ Técnicas de programación en java (120 horas) - Centro N°8 SMATA  
+__2016__ Administración básica y avanzada de Linux (80 horas) - CESSI  
+__2016__ Introducción a Bases de Datos y SQL - educacionIT  
+__2016__ Introducción al Paradigma de Objetos - educacionIT  
+__2016__ Introducción a Java -  educacionIT  
+__2014__ Introducción al Testing de Software -  Universidad Nacional de San Martín (ECyT)  
+__2012__ Reparación de Pc - Centro de Formación Profesional n.°401  
+__2012__ Administración de redes - Centro de Formación Profesional n.°401  
