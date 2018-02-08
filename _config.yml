@@ -12,7 +12,7 @@ linkedin:           "alejandro-centurion"
 
 disqus_shortname:   "acenturion"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-9505.jpg"
+background:         "https://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-9505.jpg"
 
 paginate:           3
 paginate_path:      "/page:num/"
