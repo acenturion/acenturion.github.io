@@ -4,20 +4,20 @@ permalink: /about/
 ---
 
 ## Experiencia Laboral
+
+__Practia__ • _Julio 2017 - actualidad_  
+**_Tester QA Técnico._**  
+Automatización de pruebas funcionales, mantenimiento de scripts, para el cliente Cencosud en el programa de cajas de supermercado.  
 	
-__Thalamus S.A__ • _Enero 2017 - actualidad_  
-**_Ejecutivo de  cuentas_**  
-Soporte y orientación a clientes, desarrollo de consultas en MySQL, Administración de Bases,Diseño de comunicaciones en HTML  
+__Thalamus S.A__ • _Enero 2017 - Julio 2017_  
+**_Ejecutivo de  cuentas._**  
+Soporte y orientación a clientes, desarrollo de consultas en MySQL, Administración de Bases,Diseño de comunicaciones en HTML.  
  
 __Covedisa__ • _Enero 2016 - Junio 2016_  
 **_Vendedor telefónico._**  
-Ventas de equipos celulares, planes telefónicos, garantías. Asistencia al cliente por medio telefónico, Manejo de sistemas como Avaya, SAP y Remedy.  
+Ventas de equipos celulares, planes telefónicos, garantías. Asistencia al cliente por medio telefónico, Manejo de sistemas como Avaya, SAP y Remedy.   
  
-__Tecnico Vot.ar__ • _Julio 2015_  
-**_Técnico en elecciones generales y ballotage_**    
-Asistencia y reparación de los equipos utilizados con el sistema de boleta única electrónica (BUE).  
- 
-__Open Terrazas y Open Boulevard__ • _nov 2012 -  sep 2013_  
+__Open Terrazas y Open Boulevard__ • _Noviembre 2012 -  Septiembre 2013_  
 **_Atención al público / Ventas_**  
 Ventas y atención al público en kiosco. Manejo de caja. Recepción de Proveedores. Cobertura de francos.  
 
@@ -31,6 +31,7 @@ _Bachillerato, Economía y Gestión de las Organizaciones._
 
 ## Cursos  
 
+__2018__ Desarrollo web (JavaScript) (65 horas) - CoderHouse  
 __2017__ Programación Orientada a Objetos en Java (150 horas) - Centro N°8 SMATA  
 __2016__ Técnicas de programación en java (120 horas) - Centro N°8 SMATA  
 __2016__ Administración básica y avanzada de Linux (80 horas) - CESSI  
@@ -40,3 +41,7 @@ __2016__ Introducción a Java -  educacionIT
 __2014__ Introducción al Testing de Software -  Universidad Nacional de San Martín (ECyT)  
 __2012__ Reparación de Pc - Centro de Formación Profesional n.°401  
 __2012__ Administración de redes - Centro de Formación Profesional n.°401  
+
+## Idiomas  
+• Español - Nativo
+• Inglés - Avanzado
