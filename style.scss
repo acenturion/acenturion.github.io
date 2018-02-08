@@ -32,6 +32,7 @@ html {
     font-size: 18px;
     font-weight: 300;
     line-height: 1.6;
+    overflow:auto;
     @media (min-width: 38em) {
         font-size: 20px;
     }
@@ -381,13 +382,11 @@ tbody tr:nth-child(odd) th {
     padding: 1.4rem 0.8rem;
     margin-left: auto;
     margin-right: auto;
-    overflow: auto;
     @media (min-width: 38rem) {
         margin-top: 0;
         margin-left: 20%;
         padding: 3%;
         min-width: 80%;
-        height: 666px;
     }
 }
 
