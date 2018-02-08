@@ -43,5 +43,5 @@ __2012__ Reparación de Pc - Centro de Formación Profesional n.°401
 __2012__ Administración de redes - Centro de Formación Profesional n.°401  
 
 ## Idiomas  
-• Español - Nativo
-• Inglés - Avanzado
+• **Español** - Nativo  
+• **Inglés** - Avanzado  
