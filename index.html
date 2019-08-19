@@ -1,36 +1,33 @@
----
-layout: default 
----
-<header class="bloghead">
-    <h1 class="bloghead-title">
-    <a href="{{ site.url }}/">{{ site.name }}<span></span></a>
-  </h1>
-    <nav class="bloghead-nav">
-        {% for nav in site.nav %}
-        <a href="{{ nav.href }}">{{ nav.name }}<span> &nbsp;/&nbsp; </span></a> {% endfor %}
-    </nav>
-</header>
-<div class="content">
-    {% if site.posts.size == 0 %}
-    <h2>No post found</h2> {% else %} {% for post in paginator.posts %}
-    <div class="post-list">
-        <h2 class="post-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h2> 
-        <div class="post-content">
-            <p>{{ post.content | content_to_string }}</p>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Alejandro Centurion Page</title>
+</head>
+
+<body>
+    <div class="container fill">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <h1 class="mb-4">Alejandro Centurion</h1>
+                <div class="row">
+                    <div class="col-sm-6 text-center">
+                        <i class="fa fa-github-alt" aria-hidden="true"></i><a href="https://github.com/acenturion/"><span> Github</span></a>
+                    </div>
+                    <div class="col-sm-6 text-center">
+                        <i class="fa fa-linkedin-square" aria-hidden="true"></i><a href="https://www.linkedin.com/in/alejandro-centurion/"><span> Linkedin</span></a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    {% endfor %} {% if paginator.total_pages > 1 %}
-    <div class="pages">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><</a>
-      {% endif %}
+</body>
 
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">></a>
-      {% endif %}
-    </div>
-    {% endif %}
-  {% endif %}
-</div>
+</html>
